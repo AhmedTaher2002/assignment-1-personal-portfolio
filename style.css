@@ -1,0 +1,132 @@
+body {
+    background-color: #f1f5f9;
+    font-family: Arial, sans-serif;
+    color: #10233f;
+    margin: 0;
+}
+.w-100{
+    width: 100%;
+}
+.header {
+    background-color: #21558a;
+    color: white;
+    text-align: center;
+    width: 85%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.header a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: #376895;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.section {
+    background-color: white;
+    width: 85%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+.section img{
+    width: 100;
+}
+h2 {
+    color: #124b80;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #d8e7f4;
+    margin-bottom: 20px;
+}
+
+.profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    float: left;
+    display: block;
+    margin: 0 auto 15px;
+    margin-right: 20px;
+}
+.profile img{
+    width: 100%;
+    background-size: cover;
+}
+
+.button {
+    display: inline-block;
+    background-color: #0d6fb3;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+
+.skill {
+    width: 90%;
+    margin: 10px auto;
+    display: inline-block;
+    background-color: #f8fbff;
+    border: 1px solid #dce9f4;
+    width: 19%;
+    padding: 15px;
+    vertical-align: top;
+    border-radius: 10px;
+}
+
+.skill h3 {
+    color: #0867ad;
+}
+
+.experience, .project {
+    background-color: #f8fafc;
+    border: 1px solid #dce7f0;
+    border-left: 4px solid #0875be;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+.contact {
+    background-color: #21558a;
+    color: white;
+    width: 85%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.contact h2 {
+    color: white;
+}
+
+.contact a {
+    display: inline-block;
+    color: white;
+    background-color: #376895;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 6px;
+}
+
+.footer {
+    background-color: #071d3a;
+    color: white;
+    text-align: center;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+
